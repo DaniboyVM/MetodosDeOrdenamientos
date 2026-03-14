@@ -7,16 +7,16 @@ todo esto lo hace mil veces en cada intervalo para obtener un promedio.
 Este proceso es automatico por lo no es necesario que el usuario interactue con el programa, solo es necesario abrir el archivo y compilarlo.
 
 
--El algoritmo de insercion por orden es un método de ordenamiento que recibe como ´
+- El algoritmo de insercion por orden es un método de ordenamiento que recibe como ´
 entrada una sucesion´ s = (s1, s2, . . . , sn) y ordena sus elementos en orden no decreciente
 modificando la sucesion original.
 
--El algoritmo de ordenamiento burbuja (Bubble Sort) es un metodo simple que recorre ´
+- El algoritmo de ordenamiento burbuja (Bubble Sort) es un metodo simple que recorre ´
 repetidamente una lista, compara elementos adyacentes y los intercambia si estan en el ´
 orden incorrecto. El algoritmo recibe como entrada una sucesion´ s = (s1, s2, . . . , sn) y
 ordena sus elementos en orden no decreciente.
 
- -El algoritmo de ordenamiento por selección (Selection Sort) es un método que divide
+ - El algoritmo de ordenamiento por selección (Selection Sort) es un método que divide
  la lista de entrada en dos partes: una sublista ya ordenada y una sublista por ordenar. El
  algoritmo busca repetidamente el elemento mínimo de la parte no ordenada y lo coloca al
  final de la parte ordenada. Recibe como entrada una sucesión s = (s1,s2,...,sn) y ordena
@@ -34,7 +34,7 @@ ordena sus elementos en orden no decreciente.
  izquierda y todos los mayores a su derecha. Luego, recursivamente ordena los dos sub
 arreglos resultantes.
 
--El algoritmo de ordenamiento Shell (Shell Sort) es una extensión del algoritmo de ordenamiento
+- El algoritmo de ordenamiento Shell (Shell Sort) es una extensión del algoritmo de ordenamiento
 por inserción que supera algunas de sus limitaciones al permitir el intercambio de 
 elementos distantes. Desarrollado por Donald Shell en 1959, el algoritmo mejora el rendimiento 
 del ordenamiento por inserción al ordenar elementos separados por una cierta
