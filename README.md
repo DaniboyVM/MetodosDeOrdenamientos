@@ -1,10 +1,10 @@
 Metodos de ordenamientos.
 
-Este programa corre 6 metodos de ordenamientos diferenres con el fin de comparar su complejidad algoritmica,
+Este programa corre 6 metodos de ordenamientos diferentes con el fin de comparar su complejidad algoritmica,
 primero ordenamos un arreglo de 10 valores aleatorios y luego le vamos sumando otros 10 valores hasta llegar al 1000, 
-todo esto lo haces mil veces en cada intervalo para obtener un promedio.
+todo esto lo hace mil veces en cada intervalo para obtener un promedio.
 
-Todo este proceso es automatico por lo no es necesario que el usuario interactue con el programa, con tan solo abrir el archivo y compilarlo es todo.
+Este proceso es automatico por lo no es necesario que el usuario interactue con el programa, solo es necesario abrir el archivo y compilarlo.
 
 
 -El algoritmo de insercion por orden es un método de ordenamiento que recibe como ´
